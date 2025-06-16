@@ -19,7 +19,5 @@ Real-time color preview as values change
 
 Hex and RGB code display
 
-Option to save favorite colors (if implemented)
-
 👩‍💻 My Role
 I designed and developed the entire app, including UI layout, logic for color rendering, and interaction with iOS system components using Swift.
