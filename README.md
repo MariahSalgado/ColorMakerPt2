@@ -8,7 +8,7 @@ ColorMaker is an iOS app that allows users to create and experiment with custom 
 🛠️ Tech Stack
 Language: Swift
 
-Framework: SwiftUI (or UIKit if different)
+Framework: SwiftUI
 
 Tools: Xcode
 
